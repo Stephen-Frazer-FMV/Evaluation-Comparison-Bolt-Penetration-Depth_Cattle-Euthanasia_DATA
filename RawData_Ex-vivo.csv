@@ -1,0 +1,31 @@
+No_patient,Race,Sexe,Age,D_N_type,M_Pol_Cant,M_Pol_Muse,M_Cant,R_date,R_heure,R_lieu,Percuteur,C_ID,C_PAv_1,C_PAv_2,C_PAv_3,C_PAp_1,C_PAp_2,C_PAp_3,C_Couleur,P_date,P_heure,M_site_vise,P_pen,P_pen_max,Cortex,Thalamus,Cerveau_moyen,Mésencéphale/diencéphale,Cervelet,Tronc_C
+126626,Jersey,F,24,Réelle,18.2,45.5,30.2,28-juil,09:00,BDC,Blitz_Kerner,BG,2.669,2.6689,2.6692,2.2175,2.2178,2.2178,Rouge,28-juil,09:50,0,7.32,8.36,Oui,Non,Non,Non,Oui,Non
+126628,Holstein,F,16,Réelle,20.3,49.5,31.2,28-juil,09:00,BDC,Matador_SS3000,MG,0.9069,0.907,0.9071,0.6602,0.6601,0.6602,Rouge,28-juil,10:15,0,7.94,9.18,Oui,Non,Oui,Oui,Oui,Non
+126627,Holstein,F,18,Estimée,19,49,31.7,28-juil,09:00,BDC,Blitz_Kerner,BI,2.681,2.6809,2.681,2.2235,2.2235,2.2237,Rouge,28-juil,10:30,0.6,6.48,7.36,Oui,Non,Non,Non,Non,Non
+126625,Holstein,F,13,Estimée,16.8,41,28.5,28-juil,09:00,BDC,Matador_SS3000,ME,0.9026,0.9026,0.9025,0.654,0.6539,0.654,Rouge,28-juil,11:00,0,8.4,9.7,Oui,Non,Oui,Oui,Oui,Non
+126839,Holstein,F,12,Estimée,22.1,47,30.1,04-août,13:30,BDC,Matador_SS3000,MJ,0.9074,0.9073,0.9075,0.6585,0.6585,0.6588,Rouge,04-août,14:35,0,9.58,10.44,Oui,Oui,Oui,Oui,Oui,Non
+126837,Holstein,F,12,Estimée,18.1,49.5,27.9,04-août,13:30,BDC,Matador_SS3000,MI,0.9024,0.9025,0.9025,0.6547,0.6543,0.6547,Rouge,04-août,14:50,0,8.6,9.85,Oui,Non,Oui,Oui,Non,Oui
+126838,Holstein,F,12,Estimée,19.3,51,31,04-août,13:30,BDC,Blitz_Kerner,BC,2.6736,2.6738,2.6737,2.217,2.217,2.2168,Rouge,04-août,15:10,0,6.47,7.73,Oui,Oui,Non,Oui,Non,Non
+126950,Angus,F,17,Réelle,20.9,49,31.8,09-août,09:30,BDC,Blitz_Kerner,BB,2.6609,2.6608,2.661,2.2165,2.2166,2.2166,Rouge,09-août,11:50,0,7.61,8.9,Oui,Oui,Oui,Oui,Non,Non
+126947,,M,9,Réelle,22.4,49,34,09-août,09:30,BDC,Matador_SS3000,MF,0.9013,0.9014,0.9012,0.6542,0.6541,0.6543,Rouge,09-août,12:20,0,8.42,9.3,Oui,Oui,Oui,Oui,Oui,Oui
+126949,Holstein,F,111,Réelle,24.3,59,34.5,09-août,09:30,BDC,Matador_SS3000,MA,0.8999,0.8999,0.8998,0.655,0.655,0.6549,Rouge,09-août,12:35,0,9.4,10.02,Oui,Oui,Oui,Oui,Non,Non
+126948,Holstein,F,7,Réelle,19.7,43.5,30.7,09-août,09:30,BDC,Blitz_Kerner,BD,2.674,2.6743,2.6744,2.2269,2.227,2.2271,Rouge,09-août,12:50,0,6.17,8.29,Oui,Non,Non,Non,Non,Non
+126953,Holstein,M,12,Réelle,21.4,50.5,32,09-août,09:30,BDC,Blitz_Kerner,BF,2.667,2.6675,2.6671,2.2139,2.2137,2.2138,Rouge,09-août,13:10,0,7.48,8.46,Oui,Oui,Oui,Oui,Non,Non
+126952,Boucherie,F,14,Réelle,20.1,48,29.5,09-août,09:30,BDC,Matador_SS3000,MH,0.8973,0.8976,0.8979,0.6552,0.6551,0.655,Rouge,09-août,13:25,0,8.15,8.77,Oui,Oui,Oui,Oui,Non,Non
+126960,Holstein,F,28,Estimée,22.8,51.5,32,09-août,15:00,BDC,Blitz_Kerner,BA,2.673,2.6732,2.6734,2.2233,2.2233,2.2232,Rouge,10-août,08:25,0,7.31,8.3,Oui,Oui,Non,Oui,Non,Non
+126961,Holstein,F,19,Réelle,23,49.5,31.7,09-août,15:00,BDC,Blitz_Kerner,BH,2.6841,2.6842,2.6841,2.2301,2.2301,2.2302,Rouge,10-août,08:40,0.5,7.51,8.98,Oui,Oui,Non,Oui,Non,Non
+126958,Holstein,F,16,Réelle,23.8,51.5,31,09-août,15:00,BDC,Matador_SS3000,MD,0.9052,0.9052,0.9053,0.6589,0.6589,0.6588,Rouge,10-août,08:55,0,7.71,9.5,Oui,Oui,Oui,Oui,Oui,Non
+126959,Holstein,F,20,Réelle,24.2,53.5,29.6,09-août,15:00,BDC,Matador_SS3000,MC,0.8968,0.897,0.897,0.6556,0.6556,0.6555,Rouge,10-août,09:05,0,9.25,10.43,Oui,Oui,Oui,Oui,Oui,Oui
+127170,Holstein,F,31,Estimée,21.5,49.5,28.5,17-août,14:00,BDC,Jarvis_BaBoom,JD,1.2154,1.2155,1.2156,0.8374,0.8373,0.8373,Rouge,17-août,14:20,0,7.91,8.64,Oui,Oui,Oui,Oui,Non,Non
+127165,Holstein,F,18,Estimée,20.1,47,29.5,17-août,14:00,BDC,Matador_SS3000,MB,0.9032,0.9028,0.9029,0.6565,0.6563,0.6564,Rouge,17-août,14:50,0,8.98,9.6,Oui,Oui,Oui,Oui,Non,Non
+127166,Holstein croissé,F,14,Estimée,18.5,43.5,27.8,17-août,14:00,BDC,Jarvis_BaBoom,JI,1.2184,1.2183,1.2183,0.8376,0.8376,0.8376,Rouge,17-août,15:15,0,8.31,9.55,Oui,Oui,Oui,Oui,Non,Oui
+127316,Holstein,F,23,Estimée,20.2,48,28.8,23-août,15:00,BDC,Blitz_Kerner,BE,2.6758,2.6759,2.6758,2.2214,2.2213,2.2212,Rouge,23-août,15:35,0,7.05,7.92,Oui,Oui,Non,Oui,Non,Non
+127314,Holstein,F,23,Estimée,21.8,51,29.6,23-août,15:00,BDC,Jarvis_BaBoom,JH,1.2104,1.2102,1.2104,0.837,0.8368,0.8368,Rouge,23-août,15:50,0,7.3,7.67,Oui,Non,Non,Non,Non,Non
+127315,Holstein,F,23,Estimée,20.4,45.5,28.9,23-août,15:00,BDC,Jarvis_BaBoom,Jarvis_BaBoom,1.1959,1.1958,1.1958,0.8376,0.8379,0.8377,Rouge,23-août,16:05,0,7.85,8.66,Oui,Oui,Oui,Oui,Non,Non
+127359,Jersey,F,7,Estimée,21.3,46,32,25-août,10:00,BDC,Jarvis_BaBoom,JF,1.2218,1.222,1.2221,0.8383,0.8384,0.8383,Rouge,25-août,14:00,0,8.5,9.7,Oui,Oui,Oui,Oui,Non,Non
+127357,Holstein croissé,F,23,Estimée,23.9,51.5,32.2,25-août,10:00,BDC,Jarvis_BaBoom,JA,1.2128,1.2128,1.2127,0.837,0.8368,0.8368,Rouge,25-août,14:05,0,7.85,9.02,Oui,Oui,Oui,Oui,Non,Non
+127355,Holstein,F,13,Estimée,21.4,49.5,30.9,25-août,10:00,BDC,Jarvis_BaBoom,JG,1.2204,1.2206,1.2206,0.8382,0.8382,0.8382,Rouge,25-août,14:15,0,6.24,7.19,Oui,Non,Non,Non,Non,Non
+127356,Holstein,F,21,Estimée,23.6,53,34.5,25-août,10:00,BDC,Jarvis_BaBoom,JJ,1.2154,1.2153,1.2155,0.8361,0.8362,0.8362,Rouge,25-août,14:25,0,8.22,9.37,Oui,Oui,Oui,Oui,Non,Non
+127380,Angus,F,6,Estimée,28,40,28.8,25-août,13:40,BDC,Jarvis_BaBoom,JC,1.2065,1.2064,1.2066,0.8378,0.8378,0.8378,Rouge,25-août,16:05,0,7.22,8.27,Oui,Oui,Oui,Oui,Non,Non
+127381,Angus,F,6,Estimée,17.8,41,27.1,25-août,13:40,BDC,Blitz_Kerner,BJ,2.6875,2.6872,2.6873,2.2273,2.2272,2.2274,Rouge,25-août,16:15,0,7.55,8.34,Oui,Oui,Oui,Oui,Non,Non
+127399,Angus,F,7,Estimée,19.8,44.5,30,26-août,10:30,BDC,Jarvis_BaBoom,JE,1.2134,1.2134,1.2134,0.8361,0.8359,0.8363,Rouge,26-août,11:10,0,8.6,8.95,Oui,Oui,Oui,Oui,Non,Non
